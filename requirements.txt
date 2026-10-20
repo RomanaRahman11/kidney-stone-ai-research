@@ -1,0 +1,7 @@
+# Use Python 3.11 in Streamlit Community Cloud -> Advanced settings.
+streamlit==1.50.0
+tensorflow-cpu==2.20.0
+keras==3.13.2
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+Pillow==11.3.0

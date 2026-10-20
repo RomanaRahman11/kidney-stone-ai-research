@@ -1,0 +1,10 @@
+{
+  "bundle_ready": true,
+  "streamlit_deployed": false,
+  "public_url": null,
+  "model": "STEP06 MobileNetV3Large (not gated fusion, FL, or XAI-FL)",
+  "independent_clinical_validity": false,
+  "stone_probability_calibrated": false,
+  "external_binary_accuracy_verified": false,
+  "requires_cloud_inference_smoke_test": true
+}
